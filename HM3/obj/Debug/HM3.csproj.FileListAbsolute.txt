@@ -1,0 +1,12 @@
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\bin\Debug\HM3.exe.config
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\bin\Debug\HM3.exe
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\bin\Debug\HM3.pdb
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\obj\Debug\HM3.csprojResolveAssemblyReference.cache
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\obj\Debug\HM3.Form1.resources
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\obj\Debug\HM3.Properties.Resources.resources
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\obj\Debug\HM3.csproj.GenerateResource.Cache
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\obj\Debug\HM3.exe
+c:\users\axell\documents\visual studio 2015\Projects\HM3\HM3\obj\Debug\HM3.pdb
+C:\Users\Axell\Documents\Visual Studio 2015\Projects\HM3 ver2\HM3\bin\Debug\HM3.exe.config
+C:\Users\Axell\Documents\Visual Studio 2015\Projects\HM3 ver2\HM3\obj\Debug\HM3.exe
+C:\Users\Axell\Documents\Visual Studio 2015\Projects\HM3 ver2\HM3\obj\Debug\HM3.pdb
